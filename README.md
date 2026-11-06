@@ -1,15 +1,10 @@
 # Tandem t:slim X2 Insulin Pump Simulator
 
-**COMP 3004 – Object-Oriented Software Engineering**  
-**Carleton University | Team 50**
-
 ## 📌 Overview
 
 This project is a desktop simulation of the **Tandem t:slim X2 insulin pump**, developed using C++ and the Qt framework.
 
 The simulator is based on the functionality and interface described in the Tandem t:slim X2 **software version 7.8 documentation**. It provides an interactive environment for exploring insulin pump operations, including glucose monitoring, bolus calculations, personal profiles, battery management, and safety features.
-
-The application was developed as a team project for COMP 3004 at Carleton University.
 
 **Official Reference:** https://www.tandemdiabetes.com/support/resources/documents
 
