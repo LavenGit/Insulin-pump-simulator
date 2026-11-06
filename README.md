@@ -51,13 +51,15 @@ The simulator is based on the functionality and interface described in the Tande
 
 ## 🎥 Simulation Demonstration
 
-The `Video Recordings` folder contains a scenario video demonstrating how the insulin pump simulator works.
+The `Video Recordings` folder contains a complete demonstration of the Tandem t:slim X2 insulin pump simulator.
 
 The recording provides a walkthrough of the application, showing the interface, user interactions, and the main features of the simulation.
 
 **Video Location:** `Video Recordings/Sceanrio.mp4`
 
-The video is useful for understanding the project without having to install and run the application.
+**YouTube Demonstration:** https://www.youtube.com/watch?v=5mZ_My7k6Gs
+
+**Note:** The video is stored using Git Large File Storage (Git LFS) because of its size. If you cannot view or download the recording directly from the GitHub repository, you can watch the full demonstration using the YouTube link above.
 
 ## Technologies Used
 
